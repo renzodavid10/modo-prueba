@@ -30,7 +30,7 @@ if (isset($_SESSION['S_IDUSUARIO'])) {
     <!-- /.login-logo -->
     <div class="card card-outline card-primary">
       <div class="card-header text-center">
-        <a href="../../index2.html" class="h1"><b>INICIAR SESION</a>
+        <a href="../../index2.html" class="h1"><b>INICIAR SESIONS</a>
       </div>
       <div class="card-body">
 
